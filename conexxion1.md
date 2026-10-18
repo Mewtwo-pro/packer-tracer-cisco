@@ -72,11 +72,5 @@
 
 
 
-
-
----
-
-¿Deseas verificar o ajustar algún otro detalle de este esquema antes de hacer la prueba final de envío de paquetes?
-
 ![Conexión One](https://raw.githubusercontent.com/Mewtwo-pro/imagenes-info/main/conexionone.png)
 
